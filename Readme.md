@@ -11,3 +11,6 @@ https://www.columbia.edu/
 Tsinghua University  
 From 2017.8 to 2024.6  
 https://www.tsinghua.edu.cn/en/
+
+## Research Interests
+Combine machine learning and physical modeling to better understand extreme events and their associated risk.
